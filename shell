@@ -1,0 +1,2 @@
+# 查找文件, 包含特定字符串
+find . -type f -name "*.bpmn" | xargs grep "obj_c79e045bb1d00001dcf21c151df01582"
